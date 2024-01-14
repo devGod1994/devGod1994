@@ -7,15 +7,15 @@ I am so passionate about what I do that I spend a lot of time learning about new
 
 **My Reseach Interest**:
 - Improving a website's technical aspects to increase its pages' ranking in the search engines. 
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+- SEO Technology
+- Database Architecture
+- AI technology
+- Cloud Service
 
  **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
+- any designing and deploying website,
+- machine learning projects(GPT technology),
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
