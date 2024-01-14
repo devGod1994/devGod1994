@@ -42,9 +42,6 @@ I am so passionate about what I do that I spend a lot of time learning about new
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-316192?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
 #### Tools and Technologies
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
