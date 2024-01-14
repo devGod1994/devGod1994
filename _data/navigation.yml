@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Biography"
+    url: /biography/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Service"
+    url: /service/
+
+  - title: "Certificates"
+    url: /certificates/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Contacts"
+    url: /contacts/
