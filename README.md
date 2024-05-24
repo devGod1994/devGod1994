@@ -1,4 +1,4 @@
-### Hi there, I'm [Senior Web && Mobile Developer] 👋
+### Hi there, I'm [Senior Web && Mobile && TradingView Platform Integration Developer] 👋
 
 In my 6+ years of professional experience, I have been working relentlessly to help my customers turn their ideas into working and successful applications through designing, developing, and delivering quality software.
 I make myself available around the clock so I can respond quickly and efficiently to problems as they arise. I handle every aspect of software development and have a very diverse skill set.
