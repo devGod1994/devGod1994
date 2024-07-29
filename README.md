@@ -28,6 +28,7 @@ I am so passionate about what I do that I spend a lot of time learning about new
 ✓ available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 ## Here is my skill set so you can have a glance at once:
+
 ✓ Languages: Python, JavaScript, Typescript, SQL
 
 ✓ Backend: Node.js, Django, Flask, Spring Boot, Laravel, CodeIgniter, CakePHP
