@@ -15,6 +15,7 @@ I am so passionate about what I do that I spend a lot of time learning about new
  **I am open to**:
 
 ✓ any designing and deploying website,
+
 ✓ machine learning projects(GPT technology),
 ✓ research internships and
 ✓ available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
