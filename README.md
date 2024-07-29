@@ -1,6 +1,6 @@
-### Hi there, I'm [Senior Web && Mobile && TradingView Platform Integration Developer] 👋
+### Hi there, I'm [Senior Web && Mobile && TradingView Platform && Desktop App Developer] 👋
 
-In my 6+ years of professional experience, I have been working relentlessly to help my customers turn their ideas into working and successful applications through designing, developing, and delivering quality software.
+In my 9+ years of professional experience, I have been working relentlessly to help my customers turn their ideas into working and successful applications through designing, developing, and delivering quality software.
 I make myself available around the clock so I can respond quickly and efficiently to problems as they arise. I handle every aspect of software development and have a very diverse skill set.
 My passion lies in developing web and mobile applications with Python, JavaScript, SQL Database, and DevOps.
 I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
@@ -19,7 +19,13 @@ I am so passionate about what I do that I spend a lot of time learning about new
 - research internships and
 - available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
-## Skills:
+## Here is my skill set so you can have a glance at once:
+✓ Languages: Python, JavaScript, Typescript, SQL
+✓ Backend: Node.js, Django, Flask, Spring Boot, Laravel, CodeIgniter, CakePHP
+✓ Frontend: React.js, Vue.js,Next.js, Nuxt.js
+✓ Databases: MongoDB, PostgreSQL, MySQL, Redis
+✓ Version control: GIT, SVN; Github, BitBucket
+✓ AWS: Amplify, EC2, lambda, Cognito, API Gateway, Cloud Front, AppSync, DynamoDB...![image](https://github.com/user-attachments/assets/2cf03bfd-9ac2-4373-b545-538a173e50fd)
 
 #### Languages:
 
