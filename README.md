@@ -39,7 +39,9 @@ I am so passionate about what I do that I spend a lot of time learning about new
 
 ✓ Version control: GIT, SVN; Github, BitBucket
 
-✓ AWS: Amplify, EC2, lambda, Cognito, API Gateway, Cloud Front, AppSync, DynamoDB...![image](https://github.com/user-attachments/assets/2cf03bfd-9ac2-4373-b545-538a173e50fd)
+✓ AWS: Amplify, EC2, lambda, Cognito, API Gateway, Cloud Front, AppSync, DynamoDB...
+
+![image](https://github.com/user-attachments/assets/2cf03bfd-9ac2-4373-b545-538a173e50fd)
 
 #### Languages:
 
