@@ -6,18 +6,18 @@ My passion lies in developing web and mobile applications with Python, JavaScrip
 I am so passionate about what I do that I spend a lot of time learning about new techniques and platforms for web development. I learn something new every day!
 
 **My Reseach Interest**:
-- Improving a website's technical aspects to increase its pages' ranking in the search engines. 
-- SEO Technology
-- Database Architecture
-- AI technology
-- Cloud Service
+✓ Improving a website's technical aspects to increase its pages' ranking in the search engines. 
+✓ SEO Technology
+✓ Database Architecture
+✓ AI technology
+✓ Cloud Service
 
  **I am open to**:
 
-- any designing and deploying website,
-- machine learning projects(GPT technology),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+✓ any designing and deploying website,
+✓ machine learning projects(GPT technology),
+✓ research internships and
+✓ available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
 
 ## Here is my skill set so you can have a glance at once:
 ✓ Languages: Python, JavaScript, Typescript, SQL
